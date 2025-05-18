@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243916515983",
+    "project_id": "dingding-3fa85",
+    "storage_bucket": "dingding-3fa85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243916515983:android:61972360d3fb0d5cd69efa",
+        "android_client_info": {
+          "package_name": "com.dingding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD53bf3unkjpdw4CzXp5_ZWFRbqyxHgM28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
