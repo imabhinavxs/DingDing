@@ -47,8 +47,14 @@ fun AppNavHost(navController: NavHostController) {
 
         composable("payment") {
             PaymentScreen(
-                onPaymentComplete = { navController.popBackStack("menu", false) }
+                planName = "premium",
+                price = 3150,
+                meals = 30,
+                onPaymentDone = {
+                    navController.popBackStack("menu", false)
+                }
             )
+
         }
     }
 }
